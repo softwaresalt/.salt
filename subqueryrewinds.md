@@ -4,12 +4,12 @@ I once heard Itzik Ben-Gan speak about the theory of set based operations in SQL
 
 Let's look at the following script to show how temp tables and table variables can behave differently:
 
-```
+```tsql
 USE tempdb;
 ```
 
 #### Temp Table Setup
-```
+```tsql
 CREATE TABLE #AwardList (PointThreshold int, Award varchar(50));
 INSERT INTO #AwardList (PointThreshold, Award) VALUES
 (5,'Troll'),
@@ -34,7 +34,7 @@ GO
 ```
 
 #### Table Variable Setup
-```
+```tsql
 DECLARE @AwardList TABLE (PointThreshold int, Award varchar(50));
 DECLARE @AwardPoints TABLE(ID int, Points int);
 INSERT INTO @AwardPoints (ID, Points) VALUES
@@ -59,7 +59,7 @@ INSERT INTO @AwardList (PointThreshold, Award) VALUES
 ```
 
 #### Produces Semi-Random Results
-```
+```tsql
 SELECT
   ap.ID,
   (
@@ -72,7 +72,7 @@ FROM @AwardPoints ap
 ```
 
 #### Produces Non-Random Results
-```
+```tsql
 SELECT
   ap.ID,
   (
@@ -87,7 +87,7 @@ GO
 ```
 
 #### Produces Semi-Random Results
-```
+```tsql
 DECLARE @AwardPoints TABLE (ID int, Points int);
 INSERT INTO @AwardPoints (ID, Points) VALUES
 (1,5),
@@ -110,7 +110,7 @@ GO
 ```
 
 #### Produces Non-Random Results
-```
+```tsql
 DECLARE @AwardList TABLE (PointThreshold int, Award varchar(50));
 INSERT INTO @AwardList (PointThreshold, Award) VALUES
 (5,'Troll'),
@@ -138,7 +138,7 @@ GO
 ```
 
 #### Produces Non-Random Results
-```
+```tsql
 SELECT
   ap.ID, al.Award
 FROM #AwardPoints ap
