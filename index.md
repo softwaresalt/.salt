@@ -2,5 +2,6 @@
 
 ### Posts
 
-* [SQL Set Behavior in Subquery Rewinds](/subqueryrewinds.md)
+- [SQL Set Behavior in Subquery Rewinds](/subqueryrewinds.md)
+- [Entity Framework Assessment](/EFAssessment.md)
 
