@@ -4,10 +4,12 @@ I once heard Itzik Ben-Gan speak about the theory of set based operations in SQL
 
 Let's look at the following script to show how temp tables and table variables can behave differently:
 
-```markdown
+```
 USE tempdb;
+```
 
---Set up temp tables for script
+#### Temp Table Setup
+```
 CREATE TABLE #AwardList (PointThreshold int, Award varchar(50));
 INSERT INTO #AwardList (PointThreshold, Award) VALUES
 (5,'Troll'),
@@ -29,8 +31,10 @@ INSERT INTO #AwardPoints (ID, Points) VALUES
 (4,10),
 (5,10);
 GO
+```
 
---Produces Random Results
+#### Table Variable Setup
+```
 DECLARE @AwardList TABLE (PointThreshold int, Award varchar(50));
 DECLARE @AwardPoints TABLE(ID int, Points int);
 INSERT INTO @AwardPoints (ID, Points) VALUES
@@ -52,6 +56,10 @@ INSERT INTO @AwardList (PointThreshold, Award) VALUES
 (10,'Wizard'),
 (10,'Illusionist');
 
+```
+
+#### Produces Semi-Random Results
+```
 SELECT
   ap.ID,
   (
@@ -61,9 +69,10 @@ SELECT
     ORDER BY NEWID()
   )
 FROM @AwardPoints ap
+```
 
-
---Produces non-random results
+#### Produces Non-Random Results
+```
 SELECT
   ap.ID,
   (
@@ -75,8 +84,10 @@ SELECT
 FROM #AwardPoints ap
 
 GO
+```
 
---Produces random results
+#### Produces Semi-Random Results
+```
 DECLARE @AwardPoints TABLE (ID int, Points int);
 INSERT INTO @AwardPoints (ID, Points) VALUES
 (1,5),
@@ -96,8 +107,10 @@ SELECT
 FROM @AwardPoints ap
 
 GO
+```
 
---Produces non-random results
+#### Produces Non-Random Results
+```
 DECLARE @AwardList TABLE (PointThreshold int, Award varchar(50));
 INSERT INTO @AwardList (PointThreshold, Award) VALUES
 (5,'Troll'),
@@ -122,8 +135,10 @@ SELECT
 FROM #AwardPoints ap
 
 GO
+```
 
---Produces non-random results
+#### Produces Non-Random Results
+```
 SELECT
   ap.ID, al.Award
 FROM #AwardPoints ap
