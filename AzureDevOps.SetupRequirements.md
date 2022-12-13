@@ -18,8 +18,6 @@ At the organization level, the following extensions should be added:
 - Personas (by Agile Extensions)
 - Azure DevOps Open in Excel (by Microsoft DevLabs)
 - Azure DevOps Dashboard Migration (by Microsoft DevLabs)
-- Cascading Lists (by Microsoft DevLabs)
-- Multivalue control (by Microsoft DevLabs)
 - Process Importer (by Microsoft DevLabs)
 - Feature timeline and Epic Roadmap (by Microsoft DevLabs)
 - Reactivations Report (by Microsoft DevLabs)
