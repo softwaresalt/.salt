@@ -4,6 +4,12 @@
 
 Planning work is notoriously difficult to do well.  The less well understood the work, the less accurate the estimates will be. But some techniques work universally. Just as with breaking big problems into smaller problems to make them easier to solve, we break big chunks of work into small pieces and then estimate that effort; it's easier to estimate duration for smaller pieces of work than for larger ones.
 
+#### Sprint Goal
+
+Sprint goals provide a definition of done for the sprint and help teams finish the things to which they've committed.  The sprint goal should be expressed in a way that makes it easier to define what is more valuable when you have to make a choice, which clarifies priorities and allows decentralizing decision making to speed things up.
+
+Don't over-complicate a sprint goal. Pick a straightforward goal and stick with it until the end of the next sprint.
+
 #### The Backlog
 
 For sprint planning purposes, you should not concern yourself too much with Epics and Features.  For Data Strategy engagements, the epics and features should be derived from the use case scenarios driven out of the workshops.  The user stories are the individual blocks from which we will build our customer's solution.
@@ -104,5 +110,7 @@ User story states indicate where the story is in a workflow progression.
 - **Committed:** The owner of the story has committed to completing the user story by the end of the sprint.
 - **Active:** The story is actively being worked on in the current sprint.
 
-## Sprint Goal
+## Backlog Refinement
+
+Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. During Product Backlog refinement, items are reviewed and revised. The Scrum Team decides how and when refinement is done.
 
