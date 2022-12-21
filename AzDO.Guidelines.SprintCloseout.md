@@ -31,10 +31,11 @@ Once a user story has been committed to in a sprint, it should be tagged for the
 
 1. The State of any "Active" tasks that have not yet been worked on should be reset to "New."
 1. Tasks that have been worked on and hours decremented from Remaining:
-   1. Using the context menu "..." for the task, choose the "Create copy of work item..." option.
-   2. The duplicate task should keep the same user story parent as the original.
-   3. Reduce the estimated hours to the remainder left in the original task. Save and Close.
-   4. Reduce the Remaining hours on the original task to zero (0) and set to Closed.
+   1. Using the context menu "..." for the task, choose the "Create copy of work item..." option to create a duplicate.
+   1. Duplicate task: keep the same user story parent as the original.
+   1. Duplicate task: Zero out the Completed hours.
+   1. Duplicate task: Change the Original Estimate hours to match the Remaining hours. Save and Close.
+   1. Original task: Zero out the Remaining hours and set to Closed.
 1. Using the context menu "..." for the user story, select the Split! option to assist in copying key details of the user story into a new user story assigned to the next sprint iteration.
   1. By default, the Split! function will include all New or Active tasks and ignore all closed tasks.
   1. Following the above process, you should only have tasks on the board that are either New or Closed, which allows you to keep all tasks automatically selected for reassignment to the newly split user story.
