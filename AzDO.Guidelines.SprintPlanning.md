@@ -30,6 +30,15 @@ After creating a user story, be sure to map it to a parent feature.  We always w
 
 ![Backlog Mapping](./images/UserStory.Backlog.Mapping.png)
 
+#### Tips for virtual sprint planning:
+
+- Be really prepared - communicate plans clearly ahead of time, so that everyone has clear expectations.
+- Use a video conferencing tool that allows for breakout sessions
+- Set up the interactive online resources you plan to use and include links in the meeting request.
+- Online discussions don’t start as naturally as they would in person, so share discussion topics ahead of time, and consider preparing some ice-breakers.
+- Ensure that you’ve accounted for time differences for teams that span time zones.
+- Tech issues arise no matter how much advanced planning and testing you do. Always expect the unexpected.
+
 ## What does a good user story look like?
 
 A user story should be the smallest composable unit of **outcome** that you can define for a given persona, which might be you.  Starting with the **persona**, define the **action** needed to effect an **outcome** that adds real value to the customer by helping them achieve their goals in the description field.
