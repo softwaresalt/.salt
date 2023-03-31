@@ -1,4 +1,4 @@
-# Azure DevOps for Data Strategy Engagements
+# Azure DevOps Guidelines: Data Strategy Engagements
 
 ## Setup Requirements
 
@@ -41,3 +41,44 @@ Before you create your new project, you'll need to create an inherited process f
 
 1. You will need to [create a new project](https://learn.microsoft.com/en-us/azure/devops/organizations/projects/create-project) to manage all of your project related work.  Be sure to select your new, inherited Agile process as the process template your new project will use.
 1. And then you'll need to [add users and provide access](https://learn.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project) to your DevOps project.
+
+# Agile Template Customizations
+Below is a screenshot of the work items included in the Data Strategy Agile template:
+![Data Strategy Services Agile Template Work Items](./images/DataStrategyServicesAgileTemplateWorkItems.png)
+
+## Action
+![Data Strategy Action Work Item Type](./images/DataStrategy_WIT_Action.png)
+
+## Bug
+![Data Strategy Bug Work Item Type](./images/DataStrategy_WIT_Bug.png)
+
+## Decision
+![Data Strategy Decision Work Item Type](./images/DataStrategy_WIT_Decision.png)
+
+## Epic
+![Data Strategy Epic Work Item Type](./images/DataStrategy_WIT_Epic.png)
+
+## Feature
+![Data Strategy Feature Work Item Type](./images/DataStrategy_WIT_Feature.png)
+
+## Incident
+![Data Strategy Incident Work Item Type](./images/DataStrategy_WIT_Incident.png)
+
+## Issue
+![Data Strategy Issue Work Item Type](./images/DataStrategy_WIT_Issue.png)
+
+## Key Result
+![Data Strategy Key Result Work Item Type](./images/DataStrategy_WIT_KeyResult.png)
+
+## Objective
+![Data Strategy Objective Work Item Type](./images/DataStrategy_WIT_Objectivepng)
+
+## Risk
+![Data Strategy Risk Work Item Type](./images/DataStrategy_WIT_Risk.png)
+
+## Task
+![Data Strategy Task Work Item Type](./images/DataStrategy_WIT_Task.png)
+
+## User Story
+![Data Strategy User Story Work Item Type](./images/DataStrategy_WIT_UserStory.png)
+
