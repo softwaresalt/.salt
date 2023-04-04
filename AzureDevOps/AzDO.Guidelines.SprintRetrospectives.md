@@ -192,6 +192,92 @@ Example: "Automate at least one customer-specified test for each story" was the 
 
 This pattern helps a team converge "What we say we’ll do" with "What we really do." Once smaller bites have been mastered, the team can move back up to the bigger goals.
 
+--------------------------------------------
+
+## Retrospective Questions:
+### Four Key Questions:
+- What did we do well, that if we don’t discuss we might forget?
+- What did we learn?
+- What should we do differently next time?
+- What still puzzles us?
+
+### Valuable Retrospective Questions:
+- What helps you to be successful as a team?
+- How did you do this sprint?
+- Where and when did it go wrong in this sprint?
+- What do you expect, from who?
+- Which tools or techniques proved to be useful? Which not?
+- What is your biggest impediment?
+- If you could change 1 thing, what would it be?
+- What caused the problems that you had in this sprint?
+- What’s keeping you awake at night?
+- Which things went smoothly in this sprint? Which didn’t?
+
+### Asking why?
+- Why did you do it like this?
+- Why did this (or didn’t this) work for you?
+- Why do you consider something to be important?
+- Why do you feel this way?
+- Why did you decide to work together on this?
+
+### Questions for a remote retrospective
+- What do you like about our team and the way that we work together?
+- What can we do to improve collaboration, communication and co-working in the team?
+- How do you feel about the tools that we are using?
+- Do the tools support collaboration sufficiently?
+- What have you learned working in this dispersed team?
+- If there is one thing that you could change, what would it be?
+
+--------------------------------------------
+## Simple Retrospective Framework
+
+1. **Set the stage:** What is the purpose of the retrospective? What is the scope of exploration?
+1. **Gather data:** Collect facts and key data.
+1. **Generate insights:** Interpret data, root cause analysis,; identify solutions or improvements.
+1. **Decide what to do:** Prioritize which actions to take.
+1. **Close the retrospective:** Summarize and review plan of action.
+
+## Safety Check
+
+What's your personal sense of safety on a scale of 1-5?  
+1 = I'll smile and go along, not comfortable openly sharing my opinion.  
+5 = I am ok talking about anything.
+
+## Four Questions:
+- What did we do well that if we don't discuss we might forget?
+- What did we learn?
+- What should we do differently next time?
+- What still puzzles us?
+
+## Four Response Types:
+- I like how we...
+- I wish that we would have...
+- What if we...?
+- I wonder if we could...?
+
+## Scale 10 & Solution Focused Questions:
+- If everything we working great, what would that look like?
+- On a scale of 1-10, where are we now?
+- What are we doing well now that positively contributes to our score?
+- Using the resources we have, what can we do to move one step closer to 10?
+
+## Voting Guidance:
+- Vote for what we need to talk about, not what we want to talk about.
+- Encourage people to vote based on relevance to target outcomes/goals, not based on what they happen to feel at the moment.
+
+## Retrospective Checklist:
+1. What is the purpose of your retrospective?
+1. What kind of outcome are you looking for?
+1. Who will be invited to the retrospective?
+1. Do you anticipate any problems in terms of personal safety and willingness or ability to contribute?
+1. What kind of retrospective process will you use?
+	1. How ill you set the stage?
+	1. How will you gather data?
+	1. How will you generate insights?
+	1. How will you decide what to do?
+	1. How will you close the retrospective?
+ 
+
 
 
 
