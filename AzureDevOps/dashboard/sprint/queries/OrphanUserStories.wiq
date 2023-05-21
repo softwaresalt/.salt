@@ -1,0 +1,24 @@
+<WorkItemQuery Version="1"><TeamFoundationServer>https://dev.azure.com/KrogerMerchandising/</TeamFoundationServer><TeamProject>Kroger</TeamProject><Wiql>SELECT
+    [System.Id],
+    [System.WorkItemType],
+    [System.Title],
+    [System.AssignedTo],
+    [System.State],
+    [System.Tags]
+FROM workitemLinks
+WHERE
+    (
+        [Source].[System.TeamProject] = @project
+        AND [Source].[System.WorkItemType] = 'User Story'
+        AND [Source].[System.State] &lt;&gt; ''
+    )
+    AND (
+        [System.Links.LinkType] = 'System.LinkTypes.Hierarchy-Reverse'
+    )
+    AND (
+        [Target].[System.TeamProject] = @project
+        AND [Target].[System.WorkItemType] = 'Feature'
+    )
+ORDER BY [System.Id]
+MODE (DoesNotContain)
+</Wiql></WorkItemQuery>

@@ -1,0 +1,14 @@
+<WorkItemQuery Version="1"><TeamFoundationServer>https://dev.azure.com/KrogerMerchandising/</TeamFoundationServer><TeamProject>Kroger</TeamProject><Wiql>SELECT
+    [System.Id],
+    [System.WorkItemType],
+    [System.Title],
+    [System.AssignedTo],
+    [System.State],
+    [System.Tags]
+FROM workitems
+WHERE
+    [System.TeamProject] = @project
+    AND [System.WorkItemType] = 'Task'
+    AND [System.State] &lt;&gt; ''
+    AND [System.IterationPath] = @currentIteration('[Kroger]\Kroger Team &lt;id:2dee6f0c-3f33-4f48-9b26-e04c4c8b5fc8&gt;')
+</Wiql></WorkItemQuery>

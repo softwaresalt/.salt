@@ -1,0 +1,13 @@
+<WorkItemQuery Version="1"><TeamFoundationServer>https://dev.azure.com/KrogerMerchandising/</TeamFoundationServer><TeamProject>Kroger</TeamProject><Wiql>SELECT
+    [System.Id],
+    [System.WorkItemType],
+    [System.Title],
+    [System.AssignedTo],
+    [System.State],
+    [System.Tags]
+FROM workitems
+WHERE
+    [System.TeamProject] = @project
+    AND [System.WorkItemType] = 'User Story'
+    AND [System.State] = 'Resolved'
+</Wiql></WorkItemQuery>

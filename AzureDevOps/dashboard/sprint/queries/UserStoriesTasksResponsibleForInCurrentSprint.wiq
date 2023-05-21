@@ -1,0 +1,24 @@
+<WorkItemQuery Version="1"><TeamFoundationServer>https://dev.azure.com/KrogerMerchandising/</TeamFoundationServer><TeamProject>Kroger</TeamProject><Wiql>SELECT
+    [System.Id],
+    [System.WorkItemType],
+    [System.Title],
+    [System.AssignedTo],
+    [System.State],
+    [System.Tags]
+FROM workitemLinks
+WHERE
+    (
+        [Source].[System.TeamProject] = @project
+        AND [Source].[System.WorkItemType] = 'User Story'
+        AND [Source].[System.IterationPath] = @currentIteration('[Kroger]\Kroger Team &lt;id:2dee6f0c-3f33-4f48-9b26-e04c4c8b5fc8&gt;')
+        AND [Source].[System.AssignedTo] = @me
+    )
+    AND (
+        [System.Links.LinkType] = 'System.LinkTypes.Hierarchy-Forward'
+    )
+    AND (
+        [Target].[System.TeamProject] = @project
+        AND [Target].[System.WorkItemType] &lt;&gt; ''
+    )
+MODE (Recursive)
+</Wiql></WorkItemQuery>
