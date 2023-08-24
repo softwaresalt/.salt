@@ -15,6 +15,7 @@ Azure DevOps
 <!-- [Azure DevOps Guidance: Process Best Practices](./AzureDevOps/AzDO.Guidelines.ProcessBestPractices.md)-->
 
 SQL & ORM
+- [When to Hack a DACPAC](/WhenToHackDACPAC.md)
 - [SQL Set Behavior in Subquery Rewinds](/subqueryrewinds.md)
 - [Entity Framework Assessment](/EFAssessment.md)
 
