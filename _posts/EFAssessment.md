@@ -1,3 +1,12 @@
+---
+layout: post
+title: "When to Hack a DACPAC"
+published: true
+category: SQL
+tags: [sql, entity framework, performance, orm]
+date: 2012-07-04
+---
+
 # Entity Framework Assessment
 
 The Entity Framework is an ORM (object relational mapping) tool. There are other ORM tools on the market as well with different strengths and weaknesses.  Microsoft has ventured into this field with the intent of enabling developers to be more productive with ORM tooling and a framework that are well integrated with their Visual Studio IDE and the .NET Framework.  In the [ADO.NET Entity Framework Overview](http://msdn.microsoft.com/en-us/library/aa697427(v=vs.80).aspx), the introduction describes it as follows:
@@ -8,7 +17,7 @@ A primary goal of the upcoming version of ADO.NET is to raise the level of abstr
 
 This document describes the ADO.NET Entity Framework, what problem spaces it is targeting and how its various components address those problems.
 
-#### Where We Want To Go
+## Where We Want To Go
 
 An ideal environment for creation of business applications should allow developers to describe the business logic and state of the problem domain which they are modeling with minimum or no "noise" coming from the underlying representation and the infrastructure that supports it. Applications should be able to interact with the stores that maintain the persistent state of the system in the terms of the problem domain; specifically in the terms of a conceptual domain model, completely separated from the logical schema of the underlying store.
 This means that the Entity Framework is, like F# and other higher level languages, an attempt to further abstract software development so that the developer can focus more on the application domain and less on the actual plumbing typically intrinsic to software development.  This is intended to increase productivity essentially by not having to develop a whole bunch of code that you would have to do otherwise.  Accelerators such as the System.Web.Security namespace with the Membership class also fall into this category.
@@ -33,7 +42,7 @@ As an ORM, EF4 lets you design your data model in one place either by going the 
 
 With Code First, you model your data structures in C# code where your business domain resides in terms of logic, business rules, and functionality. The Entity Framework can generate the Entity Data Model from this design, and then from this generate the physical persistence model as a SQL schema.
 
-#### Model First:
+#### Model First
 
 With the Entity Model, you design your data structures conceptually and the Entity Framework generates the C# code to encapsulate the data model as classes and the physical persistence model as a SQL schema.
 
@@ -106,5 +115,3 @@ The top 10 reasons I would not use the EF:
 1. And speaking of choosing technologies to provide greater flexibility so that you are not overly dependent on any specific subsystem, such as the RDMS: once you've locked yourself into using the EF for your application, it is prohibitively expensive to unwind it if you realize that it is just not technically flexible enough for your needs or that it doesn't support very well what you are doing out of the box.  Once you realize that, you're SOL because just like trying to customize any out-of-the-box software to meet your specific problem domain, you are in a situation where you will expend enormous effort trying to extend or customize something for your needs.  I have seen this before, and this is why I would make every effort to avoid using a technology that is inflexible or not extendable or which is simply not designed to solve the specific problem domain you are attempting to address.
 
 So whatever you do, if you want to use the EF, first make sure it is the right technology for the job and meets the challenge of addressing the specific problem domain you are tackling.  I'm sure there are some valid use cases for it; I just haven't encountered them yet.
-
-<span style="font-size:10pt">_publication date: 2012-07-04_</span>

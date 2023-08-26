@@ -1,3 +1,10 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Blog | Derek Williams"
+description: "Depth articles on data and software engineering with a point of view. I may digress into Agile process, leadership, and philosophical topics."
+author: Derek Williams
+email: softwaresalt@gmail.com
+twitter_username: softwaresalt
+github_username:  softwaresalt
+linkedin_username: softwaresalt

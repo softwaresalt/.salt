@@ -1,15 +1,24 @@
+---
+layout: post
+title: "SQL Set Behavior in Subquery Rewinds"
+published: true
+category: SQL
+tags: [sql, database, performance]
+---
+
 # SQL Set Behavior in Subquery Rewinds
 
 I once heard Itzik Ben-Gan speak about the theory of set based operations in SQL that the SQL engine is supposed to treat sets consistently in all types of operations. For example, SQL Server will not guarantee the order of results even though it may appear to consistently retrieve them in the order of the first column in a set or in the order of a primary key column on a table.  So I thought I would share what at least appears to be an inconsistency in SQL Server's behavior with regards to sets.
 
 Let's look at the following script to show how temp tables and table variables can behave differently:
 
-```tsql
+```sql
 USE tempdb;
 ```
 
-#### Temp Table Setup
-```tsql
+## Temp Table Setup
+
+```sql
 CREATE TABLE #AwardList (PointThreshold int, Award varchar(50));
 INSERT INTO #AwardList (PointThreshold, Award) VALUES
 (5,'Troll'),
@@ -33,8 +42,9 @@ INSERT INTO #AwardPoints (ID, Points) VALUES
 GO
 ```
 
-#### Table Variable Setup
-```tsql
+## Table Variable Setup
+
+```sql
 DECLARE @AwardList TABLE (PointThreshold int, Award varchar(50));
 DECLARE @AwardPoints TABLE(ID int, Points int);
 INSERT INTO @AwardPoints (ID, Points) VALUES
@@ -58,8 +68,9 @@ INSERT INTO @AwardList (PointThreshold, Award) VALUES
 
 ```
 
-#### Produces Semi-Random Results
-```tsql
+### Produces Semi-Random Results (1)
+
+```sql
 SELECT
   ap.ID,
   (
@@ -71,8 +82,9 @@ SELECT
 FROM @AwardPoints ap
 ```
 
-#### Produces Non-Random Results
-```tsql
+### Produces Non-Random Results (1)
+
+```sql
 SELECT
   ap.ID,
   (
@@ -86,8 +98,9 @@ FROM #AwardPoints ap
 GO
 ```
 
-#### Produces Semi-Random Results
-```tsql
+### Produces Semi-Random Results (2)
+
+```sql
 DECLARE @AwardPoints TABLE (ID int, Points int);
 INSERT INTO @AwardPoints (ID, Points) VALUES
 (1,5),
@@ -109,8 +122,9 @@ FROM @AwardPoints ap
 GO
 ```
 
-#### Produces Non-Random Results
-```tsql
+### Produces Non-Random Results (2)
+
+```sql
 DECLARE @AwardList TABLE (PointThreshold int, Award varchar(50));
 INSERT INTO @AwardList (PointThreshold, Award) VALUES
 (5,'Troll'),
@@ -137,8 +151,9 @@ FROM #AwardPoints ap
 GO
 ```
 
-#### Produces Non-Random Results
-```tsql
+### Produces Non-Random Results (3)
+
+```sql
 SELECT
   ap.ID, al.Award
 FROM #AwardPoints ap

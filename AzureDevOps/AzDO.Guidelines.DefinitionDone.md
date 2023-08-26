@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Definition Of Done"
 permalink: /AzureDevOps
+published: true
+---
 
 # Azure DevOps Guidelines: Definition of Done
 
@@ -12,7 +15,7 @@ The definition of done makes transparent the team’s shared understanding of wh
 
 A definition of done is also relative to each team and what they are delivering, so it should be negotiated at the beginning of each project with the development team to decide what quality standards are important to uphold.
 
-For a data strategy project, some possible items to include in the checklist:
+Some possible items to include in the checklist:
 
 - Private Endpoints (PE) implemented end-to-end for the data path implemented.
 - Credentials stored securely in AKV accessible only through PEs.
@@ -26,9 +29,11 @@ For a data strategy project, some possible items to include in the checklist:
 - Solution increment is tested with realistic data
 
 ## How to document
+
 For each project, a Wiki page should be created documenting the negotiated definition of done to which the team has committed.  This is a living document open to updates by the team throughout the engagement as necessary.
 
 ## Evolving the definition of done
+
 It's very difficult to comprehensively identify everything that should be included in the definition up front.  We allow for the definition to evolve over time as we discover things.  For example: 
 
 - In a product backlog refinement session, the team might notice that a particular acceptance criterion is almost universal and so they add it to the definition of done.
@@ -38,7 +43,9 @@ It's very difficult to comprehensively identify everything that should be includ
 - In a sprint retrospective, the team might identify some ways a stronger definition of done might have prevented the introduction of bugs during the sprint.
 
 ## Defining the definition of done
+
 This is an exercise that the entire team should participate in.  Start by articulating the question the team will answer.  For example, what do we need to do as a team to deliver the data strategy accelerator and drive value for our customer?  Stages in this exercise:
+
 - Brainstorming
 - Defining categories, for example:
   - Done with user story
@@ -47,4 +54,3 @@ This is an exercise that the entire team should participate in.  Start by articu
   - Solution increment can be merged into next branch of source control
 - Sort and consolidate ideas from brainstorming into buckets and categorize
 - Publish definitions of done by category
-

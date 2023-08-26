@@ -1,11 +1,16 @@
+---
 layout: page
 title: "Sprint Reviews"
 permalink: /AzureDevOps
+published: true
+---
 
 # Azure DevOps Guidelines: Sprint Review
 
 ## What do we do in a sprint review/demo?
+
 First, we review with the customer and stakeholders the following:
+
 - The goal(s) for the sprint
 - Changes to the plan during the sprint
 - What the team accomplished during the sprint
@@ -23,6 +28,7 @@ Duration, remainder of the meeting time.
 Total meeting time: 60 minutes or less.
 
 ## Scheduling the sprint review
+
 Try to secure the time of the team, product owner, customer, and stakeholders at least two weeks prior to the meeting.  Individual calendars can quickly fill up within those two weeks, so getting in on the calendar well in advance is often your best chance of securing people's time.
 
 Try to capture the full list of expected attendees near the beginning of the project so that you can begin marking out time in calendars well in advance.
