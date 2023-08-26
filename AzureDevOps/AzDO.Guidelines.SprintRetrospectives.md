@@ -36,42 +36,42 @@ Once the vote is done, the scrum master will create a user story in the backlog 
 
 ## Reference
 ### Overall: Iteration Retrospectives (1)
-Retrospectives are effective tools for helping teams learn from experience, but after a project, it’s too late (for that project). Agile teams deliver frequently, but often can’t afford to do a full project retrospective after each delivery.
+Retrospectives are effective tools for helping teams learn from experience, but after a project, itâ€™s too late (for that project). Agile teams deliver frequently, but often canâ€™t afford to do a full project retrospective after each delivery.
 
 Therefore: Hold short retrospectives at the end of each iteration.
 
-They typically take 15-60 minutes; when this is first done it will tend to take on the longer side. Invite the whole development team. [But – there may be power issues related to management, so be careful about these.]
+They typically take 15-60 minutes; when this is first done it will tend to take on the longer side. Invite the whole development team. [But â€“ there may be power issues related to management, so be careful about these.]
 
-Note that iteration retrospectives don’t preclude project retrospectives.
+Note that iteration retrospectives donâ€™t preclude project retrospectives.
 
 Related Patterns: Section II. Safety discusses ways to make people comfortable sharing their concerns. Section III. Language considers a couple speech patterns you may want to be aware of. Section IV. Structure looks at different ways to organize the retrospective session. Finally, section V. Outcomes considers how the team takes the results of a retrospective and applies it back into the project.
 
 ### Safety: Safe Space (2)
-Most people have thoughts and concerns they want the whole team to know, but people won’t share their inmost thoughts unless they believe it’s safe to do so. Iteration retrospectives don’t have enough time to slowly build rapport and safety.
+Most people have thoughts and concerns they want the whole team to know, but people wonâ€™t share their inmost thoughts unless they believe itâ€™s safe to do so. Iteration retrospectives donâ€™t have enough time to slowly build rapport and safety.
 
 Therefore: Let repetition and familiarity build safety over time. Use safer (more anonymous) mechanisms at first and move to more open ones as people become comfortable.
 
 Related Patterns: Bag Check(3) provides a means of getting over uncertainty about the benefits. Anonymous Responses(4) provides a way to let people say hard truths; Safety Blanket(6) provides another way. You can move to a more Open Format(5) as people trust each other more.
 
 ### Safety: Bag Check (3)
-In extremely sensitive situations, people may have concerns that they’re not willing to ignore. But if they don’t set them aside and cooperate, the team can’t do its job at all. People can’t wait a week or two to resolve this.
+In extremely sensitive situations, people may have concerns that theyâ€™re not willing to ignore. But if they donâ€™t set them aside and cooperate, the team canâ€™t do its job at all. People canâ€™t wait a week or two to resolve this.
 
 Therefore: Each day, let people have a brief, structured chance to express their concerns, and temporarily set them aside.
 
-Example: Some teams use a "bag check" or "parking lot" protocol, where they explicitly identify concerns at the start of the day, but then set them aside to work. At the end of the day, there’s another meeting where people can "reclaim their bag" (if it’s still a concern) or "abandon their bag" (if the concern has dissipated). This lets the team acknowledge their concerns, but still work.
+Example: Some teams use a "bag check" or "parking lot" protocol, where they explicitly identify concerns at the start of the day, but then set them aside to work. At the end of the day, thereâ€™s another meeting where people can "reclaim their bag" (if itâ€™s still a concern) or "abandon their bag" (if the concern has dissipated). This lets the team acknowledge their concerns, but still work.
 
-Example: Scrum teams have a daily meeting where people tell what they did yesterday, what they intend to do today, and what’s in their way. (XP teams often use a similar "stand-up" meeting.)
+Example: Scrum teams have a daily meeting where people tell what they did yesterday, what they intend to do today, and whatâ€™s in their way. (XP teams often use a similar "stand-up" meeting.)
 
 Example: The Core Protocols (Software for Your Head) have explicit protocols for Check In and Check Out, so people can tell the team when they are engaged or not.
 
 ### Safety: Anonymous Responses (4)
-Saying nothing feels safest, but deprives the team of a chance to learn and improve.  It’s hard to be the first to speak. It’s hard to understand other people’s perspectives.
+Saying nothing feels safest, but deprives the team of a chance to learn and improve.  Itâ€™s hard to be the first to speak. Itâ€™s hard to understand other peopleâ€™s perspectives.
 
 Therefore: Use anonymous or semi-anonymous techniques to make it safe to communicate things it might not feel safe to say out loud.
 
 Example: A technique for anonymous responses would be to have each person write a topic on a card, then have the facilitator shuffle the cards, read them, write the topic on a chart, and destroy the cards.
 
-Example: A technique for semi-anonymous responses would be to have each person write a topic on a sticky note, then walk to the chart and place the note where they think it belongs. Someone determined to break the anonymity could watch for handwriting, or see who put what where, but it mostly lets people act "as if" they don’t know who wrote what.
+Example: A technique for semi-anonymous responses would be to have each person write a topic on a sticky note, then walk to the chart and place the note where they think it belongs. Someone determined to break the anonymity could watch for handwriting, or see who put what where, but it mostly lets people act "as if" they donâ€™t know who wrote what.
 
 Related Patterns: Expect to be able to move to a more Open Format(5) as people build trust over time.
 
@@ -85,7 +85,7 @@ Example: Instead of placing sticky notes, let people call out topics to a facili
 Example: Let others on the team facilitate the review.
 
 ### Language: Safety Blanket (6)
-If an issue is sensitive enough, saying, "I’m concerned about this issue" (even anonymously) can feel risky.
+If an issue is sensitive enough, saying, "Iâ€™m concerned about this issue" (even anonymously) can feel risky.
 
 Therefore: Wrap the concern in a "safety blanket": instead of "What concerns do you have?," ask "What concerns do you think people on your team have?" or even, "What concerns do you think people on a similar project might have?"
 
@@ -98,12 +98,12 @@ People omit subjects and objects in their sentences, making hidden assumptions. 
 
 Therefore: Recognize when this is a problem, deconstruct what is said, and re-frame it into a statement that is active and under control of the speaker.
 
-Example: "Management ought to provide snacks." Is this because the team wants snacks, or wants a demonstration that management cares? If it’s the former, people could start bringing snacks in and try to create a trend.
+Example: "Management ought to provide snacks." Is this because the team wants snacks, or wants a demonstration that management cares? If itâ€™s the former, people could start bringing snacks in and try to create a trend.
 
 Example: "Somebody ought to make sure it works before QA gets it." This is much more powerful, when turned into an explicit request, "Developers, for each story would you add an explicit task to double-check that it works before marking the story done?"
 
 ### Structure: Backward and Forward Look (8)
-Some things have gone well, others poorly. Some problems are temporary, others last longer. Talk alone doesn’t change things.
+Some things have gone well, others poorly. Some problems are temporary, others last longer. Talk alone doesnâ€™t change things.
 
 Therefore: Use a framework that looks both backward (to what happened) and forward (to what we intend to do in the future).
 
@@ -115,38 +115,38 @@ Example: The WW/NI framework asks people to consider what Works Well and what Ne
 
 Example: The WW/DD framework asks people what Worked Well and what they would like to Do Differently. (This is sometimes known as the Plus-Delta framework.)
 
-Example: Appreciative Inquiry approaches focus on peak experiences and how to recreate them, rather than on what’s gone poorly.
+Example: Appreciative Inquiry approaches focus on peak experiences and how to recreate them, rather than on whatâ€™s gone poorly.
 
 ### Structure: Deeper Dig (9)
-Just because an idea is on the table doesn’t mean everybody agrees with it. People may have other things to say. Other ideas or problems may be more important.
+Just because an idea is on the table doesnâ€™t mean everybody agrees with it. People may have other things to say. Other ideas or problems may be more important.
 
 Therefore: Mine the data for areas of agreement and areas of conflict. Compare this retrospective to previous ones.
 
-Example: You’d like to know how important a concern is. In anonymous forms, you may see the same topic appearing multiple times (perhaps with similar words). In an open form, you can vote or multi-vote on what’s important.
+Example: Youâ€™d like to know how important a concern is. In anonymous forms, you may see the same topic appearing multiple times (perhaps with similar words). In an open form, you can vote or multi-vote on whatâ€™s important.
 
-Example: Sometimes the same topic may appear in multiple categories, representing a conflict. One person may think the team is refactoring too much, another that it’s refactoring too little. You may take this information and try to surface where the rest of the group is.
+Example: Sometimes the same topic may appear in multiple categories, representing a conflict. One person may think the team is refactoring too much, another that itâ€™s refactoring too little. You may take this information and try to surface where the rest of the group is.
 
 Example: Sometimes the same topic may appear in multiple categories, without being contradictory. Someone may write that refactoring worked well this week, and the same person suggest that refactoring needs improvement.
 
-Example: By looking at the previous retrospective, you may see that an  issue recurs. This may help a team learn that its interventions aren’t working in this area.
+Example: By looking at the previous retrospective, you may see that an  issue recurs. This may help a team learn that its interventions arenâ€™t working in this area.
 
 ### Structure: Fish in Water (10)
-Some problems are like water to a fish: so much part of the environment that they’re hard to notice. Other problems are noticed, but not named.
+Some problems are like water to a fish: so much part of the environment that theyâ€™re hard to notice. Other problems are noticed, but not named.
 
 Therefore: Actively seek to find what the team is not seeing or not saying. You may need to create extra safety to make it safe to discuss.
 
-Example: People sometimes talk about the "elephant in the room": a problem so big it can’t be ignored, but yet it’s never mentioned. For example, hurtful behavior by a manager could be very hard to discuss.
+Example: People sometimes talk about the "elephant in the room": a problem so big it canâ€™t be ignored, but yet itâ€™s never mentioned. For example, hurtful behavior by a manager could be very hard to discuss.
 
 Example: People may get used to something and forget about the possibility it could be changed. For example, the room is always the wrong temperature, or this tool always crashes.
 
 ### Structure: Facilitation Toolbox (11)
-An unexpectedly sensitive issue arises, or something comes up that doesn’t fit the team’s usual framework.
+An unexpectedly sensitive issue arises, or something comes up that doesnâ€™t fit the teamâ€™s usual framework.
 
 Therefore: Maintain a set of facilitation techniques, and use them when needed.
 
 Example: Break into small discussion groups
 
-Example: Use a Structured Sharing technique (Thiagi – www.thiagi.com).
+Example: Use a Structured Sharing technique (Thiagi â€“ www.thiagi.com).
 
 Example: Use multi-voting, prioritization, polls, etc.
 
@@ -161,12 +161,12 @@ Example: Change the standard format from SAMOLE to WW/DD.
 
 Example: Play a retrospective game (such as one based on a classification card game).
 
-Example: Try one of the exercises in Norm Kerth’s book (Project Retrospectives).
+Example: Try one of the exercises in Norm Kerthâ€™s book (Project Retrospectives).
 
 ### Outcomes: Tentative Rules (13)
 People need agreement on how to work together, but people resent being told what to do.
 
-Therefore: Let people explicitly set the rules under which they’ll work together, and provide feedback mechanisms so they can adjust them when necessary.
+Therefore: Let people explicitly set the rules under which theyâ€™ll work together, and provide feedback mechanisms so they can adjust them when necessary.
 
 Keep rules fluid. The stance is "trying on a shirt" to see how the shirt fits and feels, without committing to buying it first.
 
@@ -177,30 +177,30 @@ People suggest protocols that are too fuzzy to assess, or not well enough unders
 
 Therefore: Use the SMART acronym to guide the creation of effective rules:
 
-    S – Specific
-    M – Measurable
-    A – Achievable
-    R – Relevant
-    T – Time-Boxed
+    S â€“ Specific
+    M â€“ Measurable
+    A â€“ Achievable
+    R â€“ Relevant
+    T â€“ Time-Boxed
 
-Example: "Refactor better." It’s hard to argue with, but it doesn’t actually tell anybody what to do.  The team can break this up into concrete actions, such as, "Pick a smell each week, and spend an hour each Wednesday trying to find examples of it," or "When you check off a task, write Yes or No beside it to indicate if you looked for refactoring opportunities before checking in."
+Example: "Refactor better." Itâ€™s hard to argue with, but it doesnâ€™t actually tell anybody what to do.  The team can break this up into concrete actions, such as, "Pick a smell each week, and spend an hour each Wednesday trying to find examples of it," or "When you check off a task, write Yes or No beside it to indicate if you looked for refactoring opportunities before checking in."
 
-Related Patterns: If your goal isn’t met, you may try a Smaller Bite(15).
+Related Patterns: If your goal isnâ€™t met, you may try a Smaller Bite(15).
 
 ### Outcomes: Smaller Bites (15)
-The team wanted to try something new, but they didn’t get around to it or it was too hard. This is especially a concern if an item has been on the team’s list for two or more iterations without success.
+The team wanted to try something new, but they didnâ€™t get around to it or it was too hard. This is especially a concern if an item has been on the teamâ€™s list for two or more iterations without success.
 
 Therefore: Try something similar, but easier.
 
-Example: "Automate at least one customer-specified test for each story" was the goal, but the team didn’t do that. They might agree to "Automate a customer-specified test for the next story we start."
+Example: "Automate at least one customer-specified test for each story" was the goal, but the team didnâ€™t do that. They might agree to "Automate a customer-specified test for the next story we start."
 
-This pattern helps a team converge "What we say we’ll do" with "What we really do." Once smaller bites have been mastered, the team can move back up to the bigger goals.
+This pattern helps a team converge "What we say weâ€™ll do" with "What we really do." Once smaller bites have been mastered, the team can move back up to the bigger goals.
 
 --------------------------------------------
 
 ## Retrospective Questions:
 ### Four Key Questions:
-- What did we do well, that if we don’t discuss we might forget?
+- What did we do well, that if we donâ€™t discuss we might forget?
 - What did we learn?
 - What should we do differently next time?
 - What still puzzles us?
@@ -214,12 +214,12 @@ This pattern helps a team converge "What we say we’ll do" with "What we really d
 - What is your biggest impediment?
 - If you could change 1 thing, what would it be?
 - What caused the problems that you had in this sprint?
-- What’s keeping you awake at night?
-- Which things went smoothly in this sprint? Which didn’t?
+- Whatâ€™s keeping you awake at night?
+- Which things went smoothly in this sprint? Which didnâ€™t?
 
 ### Asking why?
 - Why did you do it like this?
-- Why did this (or didn’t this) work for you?
+- Why did this (or didnâ€™t this) work for you?
 - Why do you consider something to be important?
 - Why do you feel this way?
 - Why did you decide to work together on this?
@@ -281,8 +281,3 @@ What's your personal sense of safety on a scale of 1-5?
 	1. How will you decide what to do?
 	1. How will you close the retrospective?
  
-
-
-
-
-
