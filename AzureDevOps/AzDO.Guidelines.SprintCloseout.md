@@ -1,3 +1,7 @@
+layout: page
+title: "Sprint Closeout"
+permalink: /AzureDevOps
+
 # Azure DevOps Guidelines: Sprint Close-out
 
 At the end of each sprint are some basic tasks that each of us need to do to close out a sprint.  By end of day on the last day of the sprint, each team member should have closed out all work assigned to themselves in the sprint taskboard.

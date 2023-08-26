@@ -1,3 +1,7 @@
+layout: page
+title: "Sprint Retrospectives"
+permalink: /AzureDevOps
+
 # Azure DevOps Guidelines: Sprint Retrospectives
 
 ## Current Team Practice

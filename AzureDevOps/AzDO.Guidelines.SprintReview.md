@@ -1,3 +1,7 @@
+layout: page
+title: "Sprint Reviews"
+permalink: /AzureDevOps
+
 # Azure DevOps Guidelines: Sprint Review
 
 ## What do we do in a sprint review/demo?

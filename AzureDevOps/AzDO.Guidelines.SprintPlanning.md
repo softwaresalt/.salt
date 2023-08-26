@@ -1,3 +1,7 @@
+layout: page
+title: "Sprint Planning"
+permalink: /AzureDevOps
+
 # Azure DevOps Guidelines: Sprint Planning
 
 ## Planning

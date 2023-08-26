@@ -1,3 +1,7 @@
+layout: page
+title: "Scheduling OOF"
+permalink: /AzureDevOps
+
 ## Guidance for communicating Time-Off in Outlook Calendar to the team
 This pertains to holiday, vacation, sick-time, and emergent out-of-office situations:
 

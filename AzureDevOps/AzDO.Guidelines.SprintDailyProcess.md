@@ -1,3 +1,7 @@
+layout: page
+title: "Sprint Daily Process"
+permalink: /AzureDevOps
+
 # Azure DevOps Guidelines: Sprint Daily Process
 
 We use the Azure DevOps Agile toolset to [plan our work](./AzDO.Guidelines.SprintPlanning.md) for future sprints, to allow product owners and stakeholders to prioritize the work that we will do, and to communicate the work that we are currently doing.

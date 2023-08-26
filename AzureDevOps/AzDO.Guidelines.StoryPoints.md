@@ -1,3 +1,7 @@
+layout: page
+title: "Story Points"
+permalink: /AzureDevOps
+
 # Azure DevOps Guidelines: Story Points Scale Reference
 
 Story point | ~effort days | ~effort hours
