@@ -39,8 +39,8 @@ After creating a user story, be sure to map it to a parent feature.  We always w
 - Be really prepared - communicate plans clearly ahead of time, so that everyone has clear expectations.
 - Use a video conferencing tool that allows for breakout sessions
 - Set up the interactive online resources you plan to use and include links in the meeting request.
-- Online discussions don’t start as naturally as they would in person, so share discussion topics ahead of time, and consider preparing some ice-breakers.
-- Ensure that you’ve accounted for time differences for teams that span time zones.
+- Online discussions donâ€™t start as naturally as they would in person, so share discussion topics ahead of time, and consider preparing some ice-breakers.
+- Ensure that youâ€™ve accounted for time differences for teams that span time zones.
 - Tech issues arise no matter how much advanced planning and testing you do. Always expect the unexpected.
 
 ## What does a good user story look like?
@@ -119,4 +119,3 @@ User story states indicate where the story is in a workflow progression.
 
 ## Backlog Refinement
 Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. During Product Backlog refinement, items are reviewed and revised. The Scrum Team decides how and when refinement is done.
-
