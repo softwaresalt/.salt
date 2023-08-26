@@ -43,3 +43,4 @@ This is an exercise that the entire team should participate in.  Start by articu
   - Solution increment can be merged into next branch of source control
 - Sort and consolidate ideas from brainstorming into buckets and categorize
 - Publish definitions of done by category
+
