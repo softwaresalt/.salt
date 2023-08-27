@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Data Strategy AzDO Setup Requirements"
+published: true
+categories: AzureDevOps
+tags: azure devops
+date: 2023-02-28T00:00:00.000Z
 ---
 
 # Azure DevOps Guidelines: Data Strategy Engagements

@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Scheduling OOF"
 published: false
+categories: AzureDevOps
+tags: azure devops
+date: 2023-02-28T00:00:00.000Z
 ---
 
 ## Guidance for communicating Time-Off in Outlook Calendar to the team
