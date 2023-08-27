@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Scheduling OOF"
-permalink: /AzureDevOps
 published: false
 ---
 

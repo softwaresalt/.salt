@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Data Strategy AzDO Setup Requirements"
-permalink: /AzureDevOps
 ---
 
 # Azure DevOps Guidelines: Data Strategy Engagements

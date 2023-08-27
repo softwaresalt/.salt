@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sprint Retrospectives"
-permalink: /AzureDevOps
 published: true
 ---
 

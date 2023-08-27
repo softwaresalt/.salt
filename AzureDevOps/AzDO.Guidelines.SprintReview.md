@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sprint Reviews"
-permalink: /AzureDevOps
 published: true
 ---
 

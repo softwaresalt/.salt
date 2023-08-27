@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Process Best Practices"
-permalink: /AzureDevOps
 published: false
 ---
 

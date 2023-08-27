@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sprint Daily Process"
-permalink: /AzureDevOps
 published: true
 ---
 

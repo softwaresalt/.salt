@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Story Points"
-permalink: /AzureDevOps
 published: true
 ---
 

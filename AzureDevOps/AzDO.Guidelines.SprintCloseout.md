@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sprint Closeout"
-permalink: /AzureDevOps
 published: true
 ---
 

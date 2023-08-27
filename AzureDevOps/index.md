@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Azure DevOps Guidance Topics"
-permalink: /AzureDevOps
 published: true
 ---
 

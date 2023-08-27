@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "User Story Requirements"
-permalink: /AzureDevOps
 ---
 
 # Azure DevOps Guidelines: User Story Required Fields
