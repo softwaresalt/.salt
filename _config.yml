@@ -1,6 +1,24 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-mentions
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-default-layout
+- jekyll-titles-from-headings
+- jekyll-relative-links
+- jekyll-include-cache
+- jekyll-avatar
+- jekyll-archives
+- jekyll-compose
+- jekyll-sass-converter
+- jekyll-watch
+- jekyll
 title: "Blog | Derek Williams"
 description: "Depth articles on data and software engineering with a point of view. I may digress into Agile process, leadership, and philosophical topics."
 author: Derek Williams
