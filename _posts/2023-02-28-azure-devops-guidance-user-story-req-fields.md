@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Azure DevOps Guidance: User Story Requirements"
-published: true
-categories: AzureDevOps
-tags: azure devops
+categories: [Azure DevOps]
+tags: [azure, devops]
 date: 2023-02-28
+published: 2023-02-28
 ---
 
 # Azure DevOps Guidelines: User Story Required Fields

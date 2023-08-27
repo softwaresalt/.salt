@@ -2,8 +2,8 @@
 layout: post
 title: "Azure DevOps Guidance: Scheduling OOF"
 published: false
-categories: AzureDevOps
-tags: azure devops
+categories: [Azure DevOps]
+tags: [azure, devops]
 date: 2023-02-28
 ---
 

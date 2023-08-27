@@ -1,4 +1,5 @@
 theme: minima
+  skin: solarized-light
 title: "Blog | Derek Williams"
 description: "Depth articles on data and software engineering with a point of view. I may digress into Agile process, leadership, and philosophical topics."
 author: Derek Williams
@@ -6,3 +7,5 @@ email: softwaresalt@gmail.com
 twitter_username: softwaresalt
 github_username:  softwaresalt
 linkedin_username: softwaresalt
+header-pages:
+  - about.md
