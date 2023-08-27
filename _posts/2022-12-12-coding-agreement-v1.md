@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Coding Agreement: Python"
+published: true
+date: 2022-12-12
+---
+
 # Coding agreement
 
 ## Purpose of this document

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When to Hack a DACPAC"
+title: "Entity Framework Assessment"
 published: true
 category: SQL
 tags: sql entity-framework performance orm
