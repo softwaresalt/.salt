@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Definition Of Done"
-permalink: /AzureDevOps
+permalink: /AzureDevOps/DefinitionOfDone
 published: true
 ---
 
