@@ -1,3 +1,2 @@
-
-## Throttling Event Driven Synapse Pipelines
+# Throttling Event Driven Synapse Pipelines
 
