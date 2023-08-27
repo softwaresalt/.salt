@@ -88,7 +88,7 @@ Below is a screenshot of the work items included in the Data Strategy Agile temp
 
 ## Objective
 
-![Data Strategy Objective Work Item Type](/assets/images/DataStrategy_WIT_Objectivepng)
+![Data Strategy Objective Work Item Type](/assets/images/DataStrategy_WIT_Objective.png)
 
 ## Risk
 
