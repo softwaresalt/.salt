@@ -5,8 +5,6 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Definition of Done
-
 ## What is it?
 
 The definition of done (DoD) is a formal description of quality standards, specifically, the quality required for work to become part of the Increment. It ensures members of the Scrum Team have a shared understanding of what it means for work to be complete.

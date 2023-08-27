@@ -5,8 +5,6 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Sprint Retrospectives
-
 ## Current Team Practice
 
 ### Retrospective Board Setup

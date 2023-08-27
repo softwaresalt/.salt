@@ -5,8 +5,6 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Sprint Review
-
 ## What do we do in a sprint review/demo?
 
 First, we review with the customer and stakeholders the following:

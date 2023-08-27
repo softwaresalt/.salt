@@ -5,9 +5,7 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Custom Setup & Configuration
-
-## Setup Requirements
+## Custom Setup & Configuration
 
 ### For Organizations with existing Azure Tenant
 

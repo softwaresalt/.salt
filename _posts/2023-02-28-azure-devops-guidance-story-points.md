@@ -5,8 +5,6 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Story Points Scale Reference
-
 Story point | ~effort days | ~effort hours
 | - | - | -
 0 | |

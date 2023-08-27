@@ -7,8 +7,6 @@ tags: sql database performance
 date: 2023-07-01
 ---
 
-# SQL Set Behavior in Subquery Rewinds
-
 I once heard Itzik Ben-Gan speak about the theory of set based operations in SQL that the SQL engine is supposed to treat sets consistently in all types of operations. For example, SQL Server will not guarantee the order of results even though it may appear to consistently retrieve them in the order of the first column in a set or in the order of a primary key column on a table.  So I thought I would share what at least appears to be an inconsistency in SQL Server's behavior with regards to sets.
 
 Let's look at the following script to show how temp tables and table variables can behave differently:

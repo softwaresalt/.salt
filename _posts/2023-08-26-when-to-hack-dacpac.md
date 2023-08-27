@@ -6,8 +6,6 @@ tags: sql azure migration database
 date: 2023-08-26
 ---
 
-# When To Hack A DACPAC
-
 ## Scenario
 
 As a data engineer, you want to migrate a database from an on-premise version of SQL Server to Azure SQL **including all source data**.

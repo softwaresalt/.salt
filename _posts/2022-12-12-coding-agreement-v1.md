@@ -4,8 +4,6 @@ title: "Coding Agreement: Python"
 published: true
 ---
 
-# Coding agreement
-
 ## Purpose of this document
 
 This document sets a baseline to ensure code quality during our engagement. It provides guidelines on Python coding best practices.

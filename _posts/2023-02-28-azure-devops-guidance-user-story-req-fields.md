@@ -5,10 +5,8 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: User Story Required Fields
-
 This definition is specific to Azure DevOps user stories. Other systems, such as Jira, will have a different set of fields with some overlaps.
-This definition also includes fields specific to the ServicesAgile_V5_DataStrategy Agile template, but these fields will be called as Data Strategy (_DS_) specific fields.  Some projects will be based on a customer's tenant that may not be customizable to includes these additional fields.  For more details, see the section on [what a good user story looks like](/Agile-Process-Guidance/Sprint-Planning).
+Some projects will be based on a customer's tenant that may not be customizable to includes these additional fields.  For more details, see the section on [what a good user story looks like](/_posts/2023-02-28-azure-devops-guidance-sprint-planning.md).
 
 ## Main Fields
 

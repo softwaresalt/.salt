@@ -5,4 +5,4 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Sprint Cycle Scheduling
+## Sprint Cycle Scheduling

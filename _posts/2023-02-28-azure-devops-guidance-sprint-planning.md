@@ -5,8 +5,6 @@ categories: [Azure DevOps]
 tags: [azure, devops]
 ---
 
-# Azure DevOps Guidelines: Sprint Planning
-
 ## Planning
 
 Planning work is notoriously difficult to do well.  The less well understood the work, the less accurate the estimates will be. But some techniques work universally. Just as with breaking big problems into smaller problems to make them easier to solve, we break big chunks of work into small pieces and then estimate that effort; it's easier to estimate duration for smaller pieces of work than for larger ones.
