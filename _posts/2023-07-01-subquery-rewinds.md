@@ -4,7 +4,7 @@ title: "SQL Set Behavior in Subquery Rewinds"
 published: true
 category: SQL
 tags: sql database performance
-date: 2022-12-12
+date: 2023-07-01
 ---
 
 # SQL Set Behavior in Subquery Rewinds
