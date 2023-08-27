@@ -6,14 +6,14 @@ published: true
 
 ### Azure DevOps
 
-- [Azure DevOps Guidance: Sprint Planning](./AzureDevOps/AzDO.Guidelines.SprintPlanning.md)
-- [Azure DevOps Guidance: User Story Required Fields](./AzureDevOps/AzDO.Guidelines.UserStory.ReqFields.md)
-- [Azure DevOps Guidance: Story Point Scale](./AzureDevOps/AzDO.Guidelines.StoryPoints.md)
-- [Azure DevOps Guidance: Sprint Daily Process](./AzureDevOps/AzDO.Guidelines.SprintDailyProcess.md)
-- [Azure DevOps Guidance: Sprint Closeout](./AzureDevOps/AzDO.Guidelines.SprintCloseout.md)
-- [Azure DevOps Guidance: Sprint Review](./AzureDevOps/AzDO.Guidelines.SprintReview.md)
-- [Azure DevOps Guidance: Sprint Retrospectives](./AzureDevOps/AzDO.Guidelines.SprintRetrospectives.md)
-- [Azure DevOps Guidance: Definition of Done](./AzureDevOps/AzDO.Guidelines.DefinitionDone.md)
-<!-- [Azure DevOps Guidance: Scheduling Time Off](./AzureDevOps/AzDO.Guidelines.SchedulingOOF.md)-->
-<!-- [Azure DevOps Guidance: Setup Requirements](./AzureDevOps/AzDO.SetupRequirements.md)-->
-<!-- [Azure DevOps Guidance: Process Best Practices](./AzureDevOps/AzDO.Guidelines.ProcessBestPractices.md)-->
+- [Azure DevOps Guidance: Sprint Planning](./AzDO.Guidelines.SprintPlanning.html)
+- [Azure DevOps Guidance: User Story Required Fields](./AzDO.Guidelines.UserStory.ReqFields.html)
+- [Azure DevOps Guidance: Story Point Scale](./AzDO.Guidelines.StoryPoints.html)
+- [Azure DevOps Guidance: Sprint Daily Process](./AzDO.Guidelines.SprintDailyProcess.html)
+- [Azure DevOps Guidance: Sprint Closeout](./AzDO.Guidelines.SprintCloseout.html)
+- [Azure DevOps Guidance: Sprint Review](./AzDO.Guidelines.SprintReview.html)
+- [Azure DevOps Guidance: Sprint Retrospectives](./AzDO.Guidelines.SprintRetrospectives.html)
+- [Azure DevOps Guidance: Definition of Done](./AzDO.Guidelines.DefinitionDone.html)
+<!-- [Azure DevOps Guidance: Scheduling Time Off](./AzDO.Guidelines.SchedulingOOF.html)-->
+<!-- [Azure DevOps Guidance: Setup Requirements](./AzDO.SetupRequirements.html)-->
+<!-- [Azure DevOps Guidance: Process Best Practices](./AzDO.Guidelines.ProcessBestPractices.html)-->
