@@ -1,9 +1,8 @@
 ---
 layout: post
 title: When to Hack a DACPAC
-categories: SQL
-tags: sql azure migration database
-date: 2023-08-26
+categories: [SQL]
+tags: [sql, azure, database, migration]
 ---
 
 ## Scenario

@@ -2,8 +2,8 @@
 layout: post
 title: "Entity Framework Assessment"
 published: true
-category: SQL
-tags: sql entity-framework performance orm
+categories: [SQL]
+tags: [sql, entity-framework, performance, orm]
 ---
 
 The Entity Framework is an ORM (object relational mapping) tool. There are other ORM tools on the market as well with different strengths and weaknesses.  Microsoft has ventured into this field with the intent of enabling developers to be more productive with ORM tooling and a framework that are well integrated with their Visual Studio IDE and the .NET Framework.  In the [ADO.NET Entity Framework Overview](http://msdn.microsoft.com/en-us/library/aa697427(v=vs.80).aspx), the introduction describes it as follows:
