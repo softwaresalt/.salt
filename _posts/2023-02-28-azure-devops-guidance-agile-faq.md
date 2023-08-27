@@ -4,7 +4,6 @@ title: "Azure DevOps Guidance: Agile FAQ"
 published: false
 categories: [Azure DevOps]
 tags: [azure, devops]
-date: 2023-02-28
 ---
 
 # Azure DevOps Guidelines: Agile FAQ

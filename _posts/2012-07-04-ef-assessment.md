@@ -4,7 +4,6 @@ title: "Entity Framework Assessment"
 published: true
 category: SQL
 tags: sql entity-framework performance orm
-date: 2012-07-04
 ---
 
 # Entity Framework Assessment

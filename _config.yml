@@ -8,3 +8,5 @@ github_username:  softwaresalt
 linkedin_username: softwaresalt
 header-pages:
   - about.md
+minima:
+  skin: dark
