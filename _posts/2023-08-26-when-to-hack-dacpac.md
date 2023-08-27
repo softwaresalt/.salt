@@ -1,7 +1,6 @@
 ---
 layout: post
 title: When to Hack a DACPAC
-published: true
 tags:
   - sql
   - azure
