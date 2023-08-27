@@ -1,14 +1,9 @@
 ---
 layout: post
 title: When to Hack a DACPAC
-tags:
-  - sql
-  - azure
-  - migration
-  - database
+categories: SQL
+tags: sql azure migration database
 date: 2023-08-27T00:06:39.338Z
-categories:
-  - SQL
 ---
 
 # When To Hack A DACPAC
