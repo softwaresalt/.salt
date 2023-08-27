@@ -1,2 +1,4 @@
-[Throttling Event Driven Synapse Pipelines](/ThrottlingEventDrivenSynapsePipelines.md)
-[Test Page](/test.md)
+# Articles
+
+- [Throttling Event Driven Synapse Pipelines](/ThrottlingEventDrivenSynapsePipelines.md)
+- [Test Page](/test.md)
