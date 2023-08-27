@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Data Strategy AzDO Setup Requirements"
+title: "Azure DevOps Guidance: Setup Requirements"
 published: true
 categories: AzureDevOps
 tags: azure devops
-date: 2023-02-28T00:00:00.000Z
+date: 2023-02-28
 ---
 
-# Azure DevOps Guidelines: Data Strategy Engagements
+# Azure DevOps Guidelines: Custom Setup & Configuration
 
 ## Setup Requirements
 
@@ -54,52 +54,52 @@ Before you create your new project, you'll need to create an inherited process f
 ## Agile Template Customizations
 
 Below is a screenshot of the work items included in the Data Strategy Agile template:
-![Data Strategy Services Agile Template Work Items](./images/DataStrategyServicesAgileTemplateWorkItems.png)
+![Data Strategy Services Agile Template Work Items](/assets/images/DataStrategyServicesAgileTemplateWorkItems.png)
 
 ## Action
 
-![Data Strategy Action Work Item Type](./images/DataStrategy_WIT_Action.png)
+![Data Strategy Action Work Item Type](/assets/images/DataStrategy_WIT_Action.png)
 
 ## Bug
 
-![Data Strategy Bug Work Item Type](./images/DataStrategy_WIT_Bug.png)
+![Data Strategy Bug Work Item Type](/assets/images/DataStrategy_WIT_Bug.png)
 
 ## Decision
 
-![Data Strategy Decision Work Item Type](./images/DataStrategy_WIT_Decision.png)
+![Data Strategy Decision Work Item Type](/assets/images/DataStrategy_WIT_Decision.png)
 
 ## Epic
 
-![Data Strategy Epic Work Item Type](./images/DataStrategy_WIT_Epic.png)
+![Data Strategy Epic Work Item Type](/assets/images/DataStrategy_WIT_Epic.png)
 
 ## Feature
 
-![Data Strategy Feature Work Item Type](./images/DataStrategy_WIT_Feature.png)
+![Data Strategy Feature Work Item Type](/assets/images/DataStrategy_WIT_Feature.png)
 
 ## Incident
 
-![Data Strategy Incident Work Item Type](./images/DataStrategy_WIT_Incident.png)
+![Data Strategy Incident Work Item Type](/assets/images/DataStrategy_WIT_Incident.png)
 
 ## Issue
 
-![Data Strategy Issue Work Item Type](./images/DataStrategy_WIT_Issue.png)
+![Data Strategy Issue Work Item Type](/assets/images/DataStrategy_WIT_Issue.png)
 
 ## Key Result
 
-![Data Strategy Key Result Work Item Type](./images/DataStrategy_WIT_KeyResult.png)
+![Data Strategy Key Result Work Item Type](/assets/images/DataStrategy_WIT_KeyResult.png)
 
 ## Objective
 
-![Data Strategy Objective Work Item Type](./images/DataStrategy_WIT_Objectivepng)
+![Data Strategy Objective Work Item Type](/assets/images/DataStrategy_WIT_Objectivepng)
 
 ## Risk
 
-![Data Strategy Risk Work Item Type](./images/DataStrategy_WIT_Risk.png)
+![Data Strategy Risk Work Item Type](/assets/images/DataStrategy_WIT_Risk.png)
 
 ## Task
 
-![Data Strategy Task Work Item Type](./images/DataStrategy_WIT_Task.png)
+![Data Strategy Task Work Item Type](/assets/images/DataStrategy_WIT_Task.png)
 
 ## User Story
 
-![Data Strategy User Story Work Item Type](./images/DataStrategy_WIT_UserStory.png)
+![Data Strategy User Story Work Item Type](/assets/images/DataStrategy_WIT_UserStory.png)

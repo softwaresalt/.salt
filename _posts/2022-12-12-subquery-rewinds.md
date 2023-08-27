@@ -3,7 +3,8 @@ layout: post
 title: "SQL Set Behavior in Subquery Rewinds"
 published: true
 category: SQL
-tags: [sql, database, performance]
+tags: sql database performance
+date: 2022-12-12
 ---
 
 # SQL Set Behavior in Subquery Rewinds

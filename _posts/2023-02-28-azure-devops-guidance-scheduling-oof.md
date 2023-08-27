@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Scheduling OOF"
+title: "Azure DevOps Guidance: Scheduling OOF"
 published: false
 categories: AzureDevOps
 tags: azure devops
-date: 2023-02-28T00:00:00.000Z
+date: 2023-02-28
 ---
 
 ## Guidance for communicating Time-Off in Outlook Calendar to the team
 
 This pertains to holiday, vacation, sick-time, and emergent out-of-office situations:
 
-![Out of Facility: OOF](./images/OutOfFacilityComm.png)
+![Out of Facility: OOF](/assets/images/OutOfFacilityComm.png)
 
 ## Setting OOF Auto Response Emails
 

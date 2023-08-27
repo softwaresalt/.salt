@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Definition Of Done"
+title: "Azure DevOps Guidance: Definition Of Done"
 published: true
 categories: AzureDevOps
 tags: azure devops
-date: 2023-02-28T00:00:00.000Z
+date: 2023-02-28
 ---
 
 # Azure DevOps Guidelines: Definition of Done

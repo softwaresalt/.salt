@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Story Points"
+title: "Azure DevOps Guidance: Agile FAQ"
 published: false
 categories: AzureDevOps
 tags: azure devops
-date: 2023-02-28T00:00:00.000Z
+date: 2023-02-28
 ---
 
 # Azure DevOps Guidelines: Agile FAQ

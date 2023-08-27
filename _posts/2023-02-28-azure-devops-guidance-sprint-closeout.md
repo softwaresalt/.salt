@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Sprint Closeout"
+title: "Azure DevOps Guidance: Sprint Closeout"
 published: true
 categories: AzureDevOps
 tags: azure devops
-date: 2023-02-28T00:00:00.000Z
+date: 2023-02-28
 ---
 
 # Azure DevOps Guidelines: Sprint Close-out
@@ -28,7 +28,7 @@ At the end of each sprint are some basic tasks that each of us need to do to clo
 
 User stories that were never committed to in a sprint should also not have any active or closed child work items.  Move the parent story to the backlog by dragging the story to the backlog, which will automatically reassign all child items to the backlog.  Simply changing the story iteration path will not affect child work items.  Dragging the story to the backlog tile performs an automation on the story and all child items.
 
-![Drag Story to Backlog Tile](./images/UserStory.MoveToBacklogViaTile.png)
+![Drag Story to Backlog Tile](/assets/images/UserStory.MoveToBacklogViaTile.png)
 
 Ideally, however, there should never be uncommitted user stories on the taskboard after the first week of the sprint.  If a story cannot be committed to by its owner by the end of week one of a two-week sprint, then it is very unlikely that the owner has sufficient confidence in the ability to complete the story by the end of week two.  Therefore, by the end of week one of a two-week sprint, the owner of an uncommitted user story should move it to the backlog and add commentary in the discussion section of the story explaining why for team transparency and contextual understanding.  Without an explanation, historical knowledge can quickly be lost and the product owner will not know why approved work is not able to be completed.
 

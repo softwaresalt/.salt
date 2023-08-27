@@ -3,7 +3,7 @@ layout: post
 title: "When to Hack a DACPAC"
 published: true
 category: SQL
-tags: [sql, entity framework, performance, orm]
+tags: sql entity-framework performance orm
 date: 2012-07-04
 ---
 

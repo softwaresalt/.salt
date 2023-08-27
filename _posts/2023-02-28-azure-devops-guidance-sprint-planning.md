@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Sprint Planning"
+title: "Azure DevOps Guidance: Sprint Planning"
 published: true
 categories: AzureDevOps
 tags: azure devops
-date: 2023-02-28T00:00:00.000Z
+date: 2023-02-28
 ---
 
 # Azure DevOps Guidelines: Sprint Planning
@@ -33,11 +33,11 @@ Try to put your user stories in stack rank order based on the order of importanc
 
 When creating the user story, be sure to set the Story Size using the [story point guidelines](./AzDO.Guidelines.StoryPoints.md).  This is your range-based, approximate sizing for this area of work.
 
-![Backlog Planning](./images/UserStory.Backlog.Planning.png)
+![Backlog Planning](/assets/images/UserStory.Backlog.Planning.png)
 
 After creating a user story, be sure to map it to a parent feature.  We always want to have a tree of work items from task all the way up the chain to the Objective level.  This way, we can always trace our work back to a core objective as well as see aggregate progress from each level in the tree from the backlog view.  Note: the main dashboard includes indicators for orphaned tasks, user stories, and features so that we can quickly identify work items that are unmapped.
 
-![Backlog Mapping](./images/UserStory.Backlog.Mapping.png)
+![Backlog Mapping](/assets/images/UserStory.Backlog.Mapping.png)
 
 ### Tips for virtual sprint planning:
 
@@ -92,7 +92,7 @@ Story Size | ~effort days (>=d - <d) | ~effort hours (>=h - <h)
 
 With the current style configuration on user stories, the card for stories marked Blocked=Yes will show red in the taskboard view to assist in visually identifying blocked stories during scrum calls.  In addition, the dashboard report includes a tile to help identify blocked stories in the current sprint.
 
-![User Story Example](./images/UserStory.Example.png)
+![User Story Example](/assets/images/UserStory.Example.png)
 
 #### Description
 
