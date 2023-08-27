@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Throttling Event Driven Synapse Pipelines"
-published: true
+published: false
 category: Azure Data Factory
 tags: [adf, azure, event driven architecture]
 ---
