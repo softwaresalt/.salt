@@ -1,4 +1,4 @@
-# Posts and Articles
+# Posts | Articles
 
 ## Posts
 - [When to Hack a DACPAC](./posts/2023-08-26-when-to-hack-dacpac.html)
