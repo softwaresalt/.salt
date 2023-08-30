@@ -1,4 +1,4 @@
-# Azure DevOps Guidance: Definition Of Done"
+# Azure DevOps Guidance: Definition Of Done
 
 ## What is it?
 

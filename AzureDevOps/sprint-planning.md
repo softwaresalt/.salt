@@ -1,7 +1,4 @@
----
-title: "Azure DevOps Guidance: Sprint Planning"
-description: ""
----
+# Azure DevOps Guidance: Sprint Planning
 
 ## Planning
 

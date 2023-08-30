@@ -1,4 +1,4 @@
-# Azure DevOps Guidance: Sprint Reviews"
+# Azure DevOps Guidance: Sprint Reviews
 
 ## What do we do in a sprint review/demo?
 

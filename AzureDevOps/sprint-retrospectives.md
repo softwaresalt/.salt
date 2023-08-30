@@ -1,4 +1,4 @@
-# Azure DevOps Guidance: Sprint Retrospectives"
+# Azure DevOps Guidance: Sprint Retrospectives
 
 ## Current Team Practice
 

@@ -1,4 +1,4 @@
-# Azure DevOps Guidance: Setup Requirements"
+# Azure DevOps Guidance: Setup Requirements
 
 ## Custom Setup & Configuration
 
