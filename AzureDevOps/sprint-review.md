@@ -1,9 +1,4 @@
----
-layout: "page"
-title: "Azure DevOps Guidance: Sprint Reviews"
-categories: [Azure DevOps]
-tags: [azure, devops]
----
+# Azure DevOps Guidance: Sprint Reviews"
 
 ## What do we do in a sprint review/demo?
 

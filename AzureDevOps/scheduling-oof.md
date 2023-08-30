@@ -1,10 +1,4 @@
----
-layout: "page"
-title: "Azure DevOps Guidance: Scheduling OOF"
-published: false
-categories: [Azure DevOps]
-tags: [azure, devops]
----
+# Azure DevOps Guidance: Scheduling OOF"
 
 ## Guidance for communicating Time-Off in Outlook Calendar to the team
 

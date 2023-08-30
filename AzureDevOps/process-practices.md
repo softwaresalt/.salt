@@ -1,8 +1,3 @@
----
-layout: "page"
-title: "Azure DevOps Guidance: Process Best Practices"
-categories: [Azure DevOps]
-tags: [azure, devops]
----
+# Azure DevOps Guidance: Process Best Practices"
 
 ## Sprint Cycle Scheduling

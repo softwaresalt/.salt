@@ -1,9 +1,4 @@
----
-layout: "page"
-title: "Azure DevOps Guidance: Setup Requirements"
-categories: [Azure DevOps]
-tags: [azure, devops]
----
+# Azure DevOps Guidance: Setup Requirements"
 
 ## Custom Setup & Configuration
 

@@ -1,8 +1,6 @@
 ---
-layout: "page"
 title: "Azure DevOps Guidance: Sprint Planning"
-categories: [Azure DevOps]
-tags: [azure, devops]
+description: ""
 ---
 
 ## Planning

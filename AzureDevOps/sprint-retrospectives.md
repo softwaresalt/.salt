@@ -1,9 +1,4 @@
----
-layout: "page"
-title: "Azure DevOps Guidance: Sprint Retrospectives"
-categories: [Azure DevOps]
-tags: [azure, devops]
----
+# Azure DevOps Guidance: Sprint Retrospectives"
 
 ## Current Team Practice
 

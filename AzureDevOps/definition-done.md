@@ -1,9 +1,4 @@
----
-layout: "page"
-title: "Azure DevOps Guidance: Definition Of Done"
-categories: [Azure DevOps]
-tags: [azure, devops]
----
+# Azure DevOps Guidance: Definition Of Done"
 
 ## What is it?
 
