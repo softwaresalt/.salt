@@ -1,7 +1,10 @@
 # Posts and Articles
 
 ## Posts
-
+- [When to Hack a DACPAC](./posts/2023-08-26-when-to-hack-dacpac.html)
+- [SQL Set Behavior in Subquery Rewinds](./posts/2023-07-01-subquery-rewinds.html)
+- [Entity Framework Assessment](./posts/2012-07-04-ef-assessment.html)
+<!-- [Coding Agreement: Python](./posts/2022-12-12-coding-agreement-v1.html)-->
 
 ## Azure DevOps Guidance Articles
 
