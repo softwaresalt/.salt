@@ -4,7 +4,7 @@
 
 ### Retrospective Board Setup
 
-The retrospective board we're currently uses the following board settings:
+This retrospective guidance uses the following ADO Retrospective board settings:
 
 - Title: [project] Team: Sprint [N]
 - Max Votes per User: 5
