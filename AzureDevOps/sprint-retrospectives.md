@@ -305,7 +305,7 @@ What's your personal sense of safety on a scale of 1-5?
 1. Who will be invited to the retrospective?
 1. Do you anticipate any problems in terms of personal safety and willingness or ability to contribute?
 1. What kind of retrospective process will you use?
-    1. How ill you set the stage?
+    1. How will you set the stage?
     1. How will you gather data?
     1. How will you generate insights?
     1. How will you decide what to do?
